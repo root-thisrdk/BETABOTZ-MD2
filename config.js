@@ -13,35 +13,35 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.owner = ['6287777982852']  
+global.mods = ['6287777982852'] 
+global.prems = ['6287777982852']
+global.nameowner = 'Limbo'
+global.numberowner = '6287777982852' 
+global.mail = 'hialectra@gmail.com' 
+global.dana = '6281239832424'
+global.pulsa = '6281239832424'
+global.gopay = '6281239832424'
+global.namebot = 'LIMBO'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.web = 'https://github.com/root-thisrdk'
+global.instagram = 'https://instagram.com/thisrdk'
+global.wm = '© LIMBO'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ Limbo'
+global.wm3 = '© Limbo'
 global.wm4 = '© BotWa'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
+global.packname = 'Made with Limbo'
 global.author = 'Bot WhatsApp'
 global.read = true//Untuk autoread kalau pengen autoread nyala true kalau pengen mati false 
 //==> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'bmJFyUju' //isi apikey mu https://api.betabotz.org
+global.btc = 'aY3jY6L2'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
